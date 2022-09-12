@@ -2,7 +2,7 @@
 # Escuela de Negocios, Universidad Adolfo Ibáñez, 2022
 ## Talleres prácticos en `R` y Test de código
 
-**José Daniel Conejeros** :mailbox_with_no_mail: jdconejeros@uc.cl
+**José Daniel Conejeros** :mailbox_with_no_mail: jose.conejeros@edu.uai.cl
 
 En este repositorio podrán encontrar el material preparado para los talleres y los test de código.
 
