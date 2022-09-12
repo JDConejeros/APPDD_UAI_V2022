@@ -15,49 +15,39 @@ Naim Bro & José D. Conejeros
 
 :books: Programa del curso: https://naimbro.github.io/programa_uai_2022.html
 
-[Guía inicial de R y RStudio]() 
+:pushpin:	 [Taller 1: Introducción a R](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_1_estudiantes.zip).
 
-:pushpin:	 [Taller 1: Introducción a R]().
-
-**Fecha: Por definir**
+**Fecha: 29-08-2022**
 
 - :memo:[Código]()
 - :bar_chart: [Datos]()
 
-:pushpin:	[Taller 2: Análisis de redes y datos geográficos]().
+:pushpin:	[Taller 2: Manipulación y visualización de datos]().
 
 **Fecha: 17-10-2022**
 
-- :memo:[Código](https://www.dropbox.com/s/uznqi1ikcrezp41/Taller_2_code.R?dl=0)
-- :bar_chart: [Datos](https://www.dropbox.com/scl/fo/c016ohjpxxczdcj02sywa/h?dl=0&rlkey=wqbh38oqrrwzj1o78hoofv7ob)
-- :memo: [Simulación test de código](https://github.com/JDConejeros/DS_PP_UC/tree/main/APPD/Test_codigo)
-
-:pushpin:	[Taller 3: Visualización de datos con `ggplot2`]().
-
-**Fecha: Por definir**
-
 - :memo:[Código]()
 - :bar_chart: [Datos]()
-- :collision: Figura objetivo:
 
 ![Casos diarios Covid-19](https://github.com/JDConejeros/DS_PP_UC/blob/main/APPD/Taller_3/figuras/gganim_covid.gif)
 
-
 ## Test Semanales:
 
-- :pushpin: [Test 1](): Se puede realizar hasta el 29-08-2022
+- :memo: [Simulación test de código](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Test_semanales/Test0.swc)
 
-- :pushpin: [Test 2](): Se puede realizar hasta el 05-09-2022
+- :pushpin: [Test 1](): Se puede realizar hasta el 20-09-2022
 
-- :pushpin: [Test 3](): Se puede realizar hasta el 12-09-2022
+- :pushpin: [Test 2](): Se puede realizar hasta el 25-09-2022
 
-- :pushpin: [Test 4](): Se puede realizar hasta el 26-09-2022
+- :pushpin: [Test 3](): Se puede realizar hasta el 03-10-2022
 
-- :pushpin: [Test 5](): Se puede realizar hasta el 03-10-2022
+- :pushpin: [Test 4](): Se puede realizar hasta el 17-10-2022
 
-- :pushpin: [Test 6](): Se puede realizar hasta el 17-10-2022
+- :pushpin: [Test 5](): Se puede realizar hasta el 24-10-2022
 
-- :pushpin: [Test 7](): Se puede realizar hasta el 17-11-2022
+- :pushpin: [Test 6](): Se puede realizar hasta el 14-11-2022
+
+- :pushpin: [Test 7](): Se puede realizar hasta el 21-11-2022
 
 
 # Test de código
