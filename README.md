@@ -38,9 +38,6 @@ Naim Bro & José D. Conejeros
 - :memo:[Código]()
 - :bar_chart: [Datos]()
 
-![Casos diarios Covid-19](https://github.com/JDConejeros/DS_PP_UC/blob/main/APPD/Taller_3/figuras/gganim_covid.gif)
-
-
 ## Test Semanales:
 
 **Actualización semanal**
