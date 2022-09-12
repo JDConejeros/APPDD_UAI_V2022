@@ -1,7 +1,11 @@
-# Instalamos el curso
+# Instalamos las librerías para cargar el curso
 install.packages(c('swirl', 'swirlify'))
+
+# Cargamos las librerías en la sesión de trabajo
 library(swirl)
 library(swirlify)
+
+# Instalamos el curso
 install_course()
 
 #Cargamos el curso

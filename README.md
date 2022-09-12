@@ -24,6 +24,15 @@ Naim Bro & José D. Conejeros
 
 :pushpin:	[Taller 2: Manipulación y visualización de datos]().
 
+**Fecha: 26-09-2022**
+
+- :memo:[Código]()
+- :bar_chart: [Datos]()
+
+![Casos diarios Covid-19](https://github.com/JDConejeros/DS_PP_UC/blob/main/APPD/Taller_3/figuras/gganim_covid.gif)
+
+:pushpin:	[Taller 3: Aplicación de consultas API's y datos geográficos]().
+
 **Fecha: 17-10-2022**
 
 - :memo:[Código]()
@@ -31,26 +40,31 @@ Naim Bro & José D. Conejeros
 
 ![Casos diarios Covid-19](https://github.com/JDConejeros/DS_PP_UC/blob/main/APPD/Taller_3/figuras/gganim_covid.gif)
 
+
 ## Test Semanales:
+
+**Actualización semanal**
 
 - :memo: [Simulación test de código](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Test_semanales/Test0.swc)
 
-- :pushpin: [Test 1](): Se puede realizar hasta el 20-09-2022
+- :pushpin: [Test 1](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 20-09-2022
 
-- :pushpin: [Test 2](): Se puede realizar hasta el 25-09-2022
+- :pushpin: [Test 2](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 25-09-2022
 
-- :pushpin: [Test 3](): Se puede realizar hasta el 03-10-2022
+- :pushpin: [Test 3](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 03-10-2022
 
-- :pushpin: [Test 4](): Se puede realizar hasta el 17-10-2022
+- :pushpin: [Test 4](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 17-10-2022
 
-- :pushpin: [Test 5](): Se puede realizar hasta el 24-10-2022
+- :pushpin: [Test 5](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 24-10-2022
 
-- :pushpin: [Test 6](): Se puede realizar hasta el 14-11-2022
+- :pushpin: [Test 6](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 14-11-2022
 
-- :pushpin: [Test 7](): Se puede realizar hasta el 21-11-2022
+- :pushpin: [Test 7](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 21-11-2022
 
 
-# Test de código
+## Test de código (26-11)
+
+Test evaluado (pronta publicación) 
 
 
 ## Links Complementarios
