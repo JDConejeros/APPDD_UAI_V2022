@@ -22,7 +22,7 @@ Naim Bro & José D. Conejeros
 - :memo:[Código]()
 - :bar_chart: [Datos]()
 
-:pushpin:	[Taller 2: Manipulación y visualización de datos]().
+:pushpin:	[Taller 2: Manipulación de datos](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_2_estudiantes.zip).
 
 **Fecha: 26-09-2022**
 
@@ -44,9 +44,9 @@ Naim Bro & José D. Conejeros
 
 - :memo: [Simulación test de código](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Test_semanales/Test0.swc)
 
-- :pushpin: [Test 1](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 20-09-2022
+- :pushpin: [Test 1](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 25-09-2022 :bangbang:
 
-- :pushpin: [Test 2](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 25-09-2022
+- :pushpin: [Test 2](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 25-09-2022 :bangbang:
 
 - :pushpin: [Test 3](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 03-10-2022
 
