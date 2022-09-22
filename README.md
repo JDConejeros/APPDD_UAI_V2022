@@ -23,11 +23,11 @@ Naim Bro & José D. Conejeros
 
 **Fecha: 26-09-2022**
 
-![Casos diarios Covid-19](https://github.com/JDConejeros/DS_PP_UC/blob/main/APPD/Taller_3/figuras/gganim_covid.gif)
-
 :pushpin:	[Taller 3: Visualización y datos geográficos](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_3_estudiantes.zip)
 
 **Fecha: 17-10-2022**
+
+![Casos diarios Covid-19](https://github.com/JDConejeros/DS_PP_UC/blob/main/APPD/Taller_3/figuras/gganim_covid.gif)
 
 ## Test Semanales:
 
