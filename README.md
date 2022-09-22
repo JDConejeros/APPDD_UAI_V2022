@@ -15,7 +15,7 @@ Naim Bro & José D. Conejeros
 
 :books: Programa del curso: https://naimbro.github.io/programa_uai_2022.html
 
-:pushpin:	 [Taller 1: Introducción a R](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_1_estudiantes.zip)
+:pushpin:	 [Taller 1: Introducción a R](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_1_estudiantes.zip).
 
 **Fecha: 29-08-2022**
 
