@@ -33,6 +33,8 @@ Naim Bro & José D. Conejeros
 
 **Actualización semanal**
 
+Ingresar como nombre de usuario a partir del siguiente listado: https://docs.google.com/spreadsheets/d/1zju5Zj8xgIqxMRcgLJcQTB5HAbb1-U7e10GGuIPscu8/edit?usp=sharing
+
 - :memo: [Simulación test de código](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Test_semanales/Test0.swc)
 
 - :pushpin: [Test 1](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 25-09-2022 :bangbang:
@@ -52,7 +54,9 @@ Naim Bro & José D. Conejeros
 
 ## Test de código (26-11)
 
-Test evaluado (pronta publicación) 
+Ingresar como nombre de usuario a partir del siguiente listado: https://docs.google.com/spreadsheets/d/1zju5Zj8xgIqxMRcgLJcQTB5HAbb1-U7e10GGuIPscu8/edit?usp=sharing
+
+- :pushpin: [Test Evaluado](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_evaluado): 26-09-2022 (en clases)
 
 
 ## Links Complementarios
