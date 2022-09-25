@@ -56,7 +56,7 @@ Ingresar como nombre de usuario a partir del siguiente listado: https://docs.goo
 
 Ingresar como nombre de usuario a partir del siguiente listado: https://docs.google.com/spreadsheets/d/1zju5Zj8xgIqxMRcgLJcQTB5HAbb1-U7e10GGuIPscu8/edit?usp=sharing
 
-- :pushpin: [Test Evaluado](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_evaluado): 26-09-2022 (en clases)
+- :pushpin: [Test Evaluado](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_evaluado): 26-09-2022. Se parte en clases y se entrega hasta las 23:59 hrs del día martes 27/09/2022.
 
 
 ## Links Complementarios
