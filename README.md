@@ -52,7 +52,7 @@ Ingresar como nombre de usuario a partir del siguiente listado: https://docs.goo
 - :pushpin: [Test 7](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 21-11-2022
 
 
-## Test de código (26-11)
+## Test de código (26-09)
 
 Ingresar como nombre de usuario a partir del siguiente listado: https://docs.google.com/spreadsheets/d/1zju5Zj8xgIqxMRcgLJcQTB5HAbb1-U7e10GGuIPscu8/edit?usp=sharing
 
