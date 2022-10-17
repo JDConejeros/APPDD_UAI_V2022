@@ -23,7 +23,7 @@ Naim Bro & José D. Conejeros
 
 **Fecha: 26-09-2022**
 
-:pushpin:	[Taller 3: Visualización y datos geográficos](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_3_estudiantes.zip)
+:pushpin:	[Taller 3: Visualización de datos](https://github.com/JDConejeros/APPDD_UAI_V2022/blob/main/Talleres/Taller_3_estudiantes.zip)
 
 **Fecha: 17-10-2022**
 
@@ -43,13 +43,13 @@ Ingresar como nombre de usuario a partir del siguiente listado: https://docs.goo
 
 - :pushpin: [Test 3](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 09-10-2022 :bangbang:
 
-- :pushpin: [Test 4](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 17-10-2022 :bangbang:
+- :pushpin: [Test 4](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 17-10-2022 (23:59 hrs) :bangbang:
 
-- :pushpin: [Test 5](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 24-10-2022
+- :pushpin: [Test 5](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 24-10-2022 (23:59 hrs) :bangbang:
 
-- :pushpin: [Test 6](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 14-11-2022
+- :pushpin: [Test 6](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 14-11-2022 (23:59 hrs)
 
-- :pushpin: [Test 7](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 21-11-2022
+- :pushpin: [Test 7](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 21-11-2022 (23:59 hrs)
 
 
 ## Test de código (26-09)
