@@ -47,7 +47,7 @@ Ingresar como nombre de usuario a partir del siguiente listado: https://docs.goo
 
 - :pushpin: [Test 5](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 24-10-2022 (23:59 hrs) :bangbang:
 
-- :pushpin: [Test 6](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 14-11-2022 (23:59 hrs)
+- :pushpin: [Test 6](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 14-11-2022 (23:59 hrs) :bangbang:
 
 - :pushpin: [Test 7](https://github.com/JDConejeros/APPDD_UAI_V2022/tree/main/Test_semanales): Se puede realizar hasta el 21-11-2022 (23:59 hrs)
 
