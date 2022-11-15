@@ -9,6 +9,8 @@ En este repositorio podrán encontrar el material preparado para los talleres y 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:JDConejeros/APPDD_UAI_V2022.git
 - Descargar el archivo .zip :point_right: [Link](https://github.com/JDConejeros/APPDD_UAI_V2022/archive/refs/heads/main.zip)
 
+- **Para ejecutar código de R en Colab deben generarlo desde el siguiente link** (deben tener una cuenta gmail): https://colab.research.google.com/#create=true&language=r
+
 ## Aproximación a las políticas públicas desde los datos :computer:
 
 Naim Bro & José D. Conejeros
